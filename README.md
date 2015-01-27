@@ -1,2 +1,4 @@
 # lab2
-Lab 2 Assignment
+Date Branch
+Mark Takahashi
+01/26/2015
